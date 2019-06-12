@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>20180107 이종민</h1>
+<p>20180107 컴퓨터공학과 이종민의 홈페이지.</p>
+
+<p>웰시코기</p>
+<h2>HTML Image</h2>
+<img src="dog.jpg" alt="웰시코기" width="500" height="333">
+
+
+
+</body>
+</html>
